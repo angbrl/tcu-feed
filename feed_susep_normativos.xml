@@ -5,39 +5,11 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Sat, 15 Aug 2026 22:48:02 -0300</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 23:55:41 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
-    <title>Portaria TCU n° 105/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/resultado/norma/Superintendência de Seguros Privados OR Susep OR Conselho Nacional de Seguros Privados OR CNSP OR Conselho de Recursos do Sistema Nacional de Seguros Privados OR CRSNSP</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48674</guid>
-    <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 105/2026 | Vigente] Atualiza e divulga a relação das Unidades Prestadoras de Contas (UPC) do exercício de 2026. Tema: Controle Externo Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80679396</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Controle Externo</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria TCU n° 58/2025</title>
-    <link>https://pesquisa.apps.tcu.gov.br/resultado/norma/Superintendência de Seguros Privados OR Susep OR Conselho Nacional de Seguros Privados OR CNSP OR Conselho de Recursos do Sistema Nacional de Seguros Privados OR CRSNSP</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-36548</guid>
-    <pubDate>Wed, 26 Mar 2025 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 58/2025 | Vigente] Atualiza e divulga a relação das Unidades Prestadoras de Contas (UPC) do exercício de 2025. Tema: Controle Externo Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=77791905</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Controle Externo</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
     <title>Portaria SEGECEX n° 6/2025</title>
-    <link>https://pesquisa.apps.tcu.gov.br/resultado/norma/Superintendência de Seguros Privados OR Susep OR Conselho Nacional de Seguros Privados OR CNSP OR Conselho de Recursos do Sistema Nacional de Seguros Privados OR CRSNSP</link>
+    <link>https://pesquisa.apps.tcu.gov.br/resultado/norma/ENTIDADE%3A%22Seguros%20Privados%22</link>
     <guid isPermaLink="false">tcu|norma|NORMA-35888</guid>
     <pubDate>Tue, 25 Feb 2025 09:00:00 -0000</pubDate>
     <description>[Portaria n° 6/2025 | Vigente] Define a clientela das unidades de auditoria especializada e estabelece regra de transição para instrução processual nas unidades da Segecex. Tema: Gestão Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=77657856</description>
