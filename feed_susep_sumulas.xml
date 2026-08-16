@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Pesquisa entidade (Susep) — Súmulas</title>
+  <link>https://pesquisa.apps.tcu.gov.br</link>
+  <description>Atos do Tribunal de Contas da União (Portal do TCU | Súmulas). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de registro da súmula no repositório da Pesquisa Integrada (a data de aprovação não é exposta pelo site).</description>
+  <language>pt-br</language>
+  <lastBuildDate>Sat, 15 Aug 2026 22:13:20 -0300</lastBuildDate>
+  <generator>tcu_rss_multifeed.py</generator>
+
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Pesquisa entidade (Susep) — Jurisprudência Selecionada</title>
+  <link>https://pesquisa.apps.tcu.gov.br</link>
+  <description>Atos do Tribunal de Contas da União (Portal do TCU | Jurisprudência Selecionada). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da sessão de julgamento em que o enunciado foi deliberado.</description>
+  <language>pt-br</language>
+  <lastBuildDate>Sat, 15 Aug 2026 22:13:20 -0300</lastBuildDate>
+  <generator>tcu_rss_multifeed.py</generator>
+
+</channel>
+</rss>
