@@ -5,25 +5,47 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Tue, 18 Aug 2026 07:58:37 -0300</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 10:08:26 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
-    <title>PROCESSO TCU Nº 021.579/2025-3 ‒ PENSÃO CIVIL</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2157920253</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79188129</guid>
-    <pubDate>Mon, 17 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 021.579/2025-3 | Pensão Civil | Aberto | Relator Augusto Sherman] 021.579/2025-3 - Pensão Civil</description>
+    <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
-    <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
+    <title>PROCESSO TCU Nº 006.690/2024-6 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/669020246</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-75624801</guid>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 028.814/2022-3 ‒ REPRESENTAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2881420223</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-72353882</guid>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Bruno Dantas] 028.814/2022-3 - Representação</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 021.579/2025-3 ‒ PENSÃO CIVIL</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2157920253</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79188129</guid>
     <pubDate>Mon, 17 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
+    <description>[Processo TCU 021.579/2025-3 | Pensão Civil | Aberto | Relator Augusto Sherman] 021.579/2025-3 - Pensão Civil</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -156,17 +178,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80490217</guid>
     <pubDate>Wed, 05 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 012.875/2026-0 | Solicitação do Congresso Nacional | Aberto | Relator Antonio Anastasia] 012.875/2026-0 - Solicitação do Congresso Nacional</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 028.814/2022-3 ‒ REPRESENTAÇÃO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2881420223</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-72353882</guid>
-    <pubDate>Mon, 03 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Bruno Dantas] 028.814/2022-3 - Representação</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -321,17 +332,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-76955471</guid>
     <pubDate>Wed, 06 May 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 024.430/2024-2 | Acompanhamento | Aberto | Relator Jhonatan de Jesus] 024.430/2024-2 - Acompanhamento</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 006.690/2024-6 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/669020246</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-75624801</guid>
-    <pubDate>Wed, 06 May 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
