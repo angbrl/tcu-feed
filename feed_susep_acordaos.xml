@@ -5,8 +5,20 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Acórdãos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da sessão de julgamento do acórdão.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 20 Aug 2026 08:35:27 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 10:36:59 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ACÓRDÃO DE RELAÇÃO Nº 2123/2026 ‒ TCU ‒ PLENÁRIO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2775906</link>
+    <guid isPermaLink="false">tcu|acordao-completo|ACORDAO-COMPLETO-2775906</guid>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Acórdão 2123/2026 | Plenário | Sessão 19/08/2026 | Relator WALTON ALENCAR RODRIGUES | Processo 1940920230] ...Banco Central do Brasil; Comissão de Valores Mobiliários; Superintendência de Seguros Privados; Superintendência Nacional de Previdência... ...Complementar (07.290.290/0001-02); Superintendência de Seguros Privados (42.354.068/0001-19)... Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=33465566</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
+    <category>Acórdão de Relação</category>
+    <category>Colegiado: Plenário</category>
+    <category>Nota de data: data da sessão de julgamento do acórdão</category>
+  </item>
   <item>
     <title>ACÓRDÃO DE RELAÇÃO Nº 4256/2026 ‒ TCU ‒ SEGUNDA CÂMARA</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2773733</link>
@@ -1049,18 +1061,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
     <category>Acórdão de Relação</category>
     <category>Colegiado: Segunda Câmara</category>
-    <category>Nota de data: data da sessão de julgamento do acórdão</category>
-  </item>
-  <item>
-    <title>ACÓRDÃO Nº 2740/2023 ‒ TCU ‒ PLENÁRIO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2640923</link>
-    <guid isPermaLink="false">tcu|acordao-completo|ACORDAO-COMPLETO-2640923</guid>
-    <pubDate>Wed, 13 Dec 2023 09:00:00 -0000</pubDate>
-    <description>[Acórdão 2740/2023 | Plenário | Sessão 13/12/2023 | Relator JHONATAN DE JESUS | Processo 3485820237] ...atestado ou documento assinado pelos próprios entes contratantes que comprovem tais informações (AMBIMA, ANCORD, Banco do Brasil, ANAC, SUSEP e FIFA) ;... ...ANAC, SUSEP e FIFA); Autodeclarações para comprovação técnico operacional não encontram sustentação jurídica para fins probatórios no âmbito da... Documento: https://contas.tcu.gov.br/sagas/SvlVisualizarRelVotoAc?codFiltro=SAGAS-SESSAO-ENCERRADA&amp;seOcultaPagina=S&amp;item0=850668</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
-    <category>Acórdão</category>
-    <category>Colegiado: Plenário</category>
     <category>Nota de data: data da sessão de julgamento do acórdão</category>
   </item>
   <item>
