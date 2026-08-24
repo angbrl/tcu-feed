@@ -5,8 +5,22 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Fri, 21 Aug 2026 07:30:15 -0300</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 10:56:14 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>Portaria SECEXONU n° 1/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49754</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49754</guid>
+    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 1/2026 | Vigente | Vigência 20/08/2026] Dispõe acerca da estrutura, das competências e das diretrizes de atuação da Secretaria de Controle Externo da Organização das Nações Unidas (SecexONU) Tema: Gestão Tags: Estrutura organizacional, Competência organizacional Unidades autoras: SEGECEX Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80930388</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
   <item>
     <title>Portaria SEGEDAM n° 22/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49674</link>
@@ -1385,20 +1399,6 @@
     <guid isPermaLink="false">tcu|norma|NORMA-48714</guid>
     <pubDate>Thu, 09 Jul 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 101/2026 | Vigente | Vigência 14/07/2026] Pensão vitalícia Tema: Gestão Tags: Pensão vitalícia Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80689460</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria ISC n° 26/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48535</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48535</guid>
-    <pubDate>Wed, 08 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 26/2026 | Vigente | Vigência 08/07/2026] Reconhece ações educacionais para fins do Adicional de Especialização e Qualificação (AEQ) para servidores inativos. Tema: Gestão Tags: Adicional de especialização e qualificação Unidades autoras: SEGEPRES Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80656612</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>

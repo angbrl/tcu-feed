@@ -5,14 +5,47 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Fri, 21 Aug 2026 07:30:15 -0300</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 10:56:14 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>PROCESSO TCU Nº 015.490/2026-2 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1549020262</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80690450</guid>
-    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 015.490/2026-2 | Representação | Aberto | Relator Jhonatan de Jesus] 015.490/2026-2 - Representação</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 019.409/2023-0 ‒ ACOMPANHAMENTO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1940920230</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73932355</guid>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 002.751/2026-7 ‒ RELATÓRIO DE AUDITORIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/275120267</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79671966</guid>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 002.751/2026-7 | Relatório de Auditoria | Encerrado | Relator Jorge Oliveira] 002.751/2026-7 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -22,8 +55,19 @@
     <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80638197</guid>
-    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
+    <pubDate>Fri, 21 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 022.280/2024-3 ‒ RELATÓRIO DE AUDITORIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2228020243</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-76786659</guid>
+    <pubDate>Fri, 21 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 022.280/2024-3 | Relatório de Auditoria | Aberto | Relator Jorge Oliveira] 022.280/2024-3 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -35,28 +79,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79411336</guid>
     <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 024.061/2025-5 | Denúncia | Aberto | Relator Walton Alencar Rodrigues] 024.061/2025-5 - Denúncia</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 019.409/2023-0 ‒ ACOMPANHAMENTO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1940920230</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73932355</guid>
-    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
-    <pubDate>Tue, 18 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -217,17 +239,6 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
-    <title>PROCESSO TCU Nº 002.751/2026-7 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/275120267</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79671966</guid>
-    <pubDate>Mon, 27 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 002.751/2026-7 | Relatório de Auditoria | Aberto | Relator Jorge Oliveira] 002.751/2026-7 - Relatório de Auditoria</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
     <title>PROCESSO TCU Nº 018.929/2025-7 ‒ MONITORAMENTO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1892920257</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79015586</guid>
@@ -266,17 +277,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79189056</guid>
     <pubDate>Wed, 08 Jul 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 021.586/2025-0 | Aposentadoria | Aberto | Relator Marcos Bemquerer] 021.586/2025-0 - Aposentadoria</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 022.280/2024-3 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2228020243</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-76786659</guid>
-    <pubDate>Thu, 25 Jun 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 022.280/2024-3 | Relatório de Auditoria | Aberto | Relator Jorge Oliveira] 022.280/2024-3 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
