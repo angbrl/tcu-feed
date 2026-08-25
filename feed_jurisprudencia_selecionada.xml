@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Jurisprudência Selecionada). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da sessão de julgamento em que o enunciado foi deliberado.</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 24 Aug 2026 10:56:14 -0300</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:47:23 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>Admite-se, em caráter excepcional, alteração da composição de consórcio (art. 15, § 5º, da Lei 14.133/2021) durante o procedimento licitatório, desde que a medida seja autorizada pela Administração e a empresa substituta demonstre qualificações técnica e econômico-financeira, no mínimo, equivalentes às da consorciada substituída. Essa possibilidade restringe-se às hipóteses em que se pretenda afastar impedimento jurídico superveniente, sem modificação do preço, da solução técnica ou de qualquer elemento substancial da proposta.</title>
@@ -73,6 +73,19 @@
     <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
   </item>
   <item>
+    <title>É irregular a inclusão do Vencimento Básico Complementar (VBC), instituído pelo art. 15 da Lei 11.091/2005, na base de cálculo do adicional por tempo de serviço (ATS).</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/jurisprudencia-selecionada/JURISPRUDENCIA-SELECIONADA-207016</link>
+    <guid isPermaLink="false">tcu|jurisprudencia-selecionada|JURISPRUDENCIA-SELECIONADA-207016</guid>
+    <pubDate>Tue, 04 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Primeira Câmara — Acórdão 4134/2026 | Área: Pessoal | Tema: Adicional por tempo de serviço | Subtema: Cálculo] É irregular a inclusão do Vencimento Básico Complementar (VBC), instituído pelo art. 15 da Lei 11.091/2005, na base de cálculo do adicional por tempo de serviço (ATS).</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Jurisprudência Selecionada</category>
+    <category>Enunciado</category>
+    <category>Área: Pessoal</category>
+    <category>Tema: Adicional por tempo de serviço</category>
+    <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
+  </item>
+  <item>
     <title>Em caso de instauração de tomada de contas especial em decorrência da não devolução de saldo financeiro remanescente na conta específica do convênio, a expedição de determinação à instituição financeira para o recolhimento desses recursos aos cofres da União não autoriza, por si só, o arquivamento do processo, pois somente após a efetivação da medida e o conhecimento da quantia restituída será possível confirmar o afastamento completo da dívida ou, se for o caso, delimitar o valor remanescente do débito e a respectiva responsabilidade, mediante a devida instrução de mérito das contas.</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/jurisprudencia-selecionada/JURISPRUDENCIA-SELECIONADA-207272</link>
     <guid isPermaLink="false">tcu|jurisprudencia-selecionada|JURISPRUDENCIA-SELECIONADA-207272</guid>
@@ -83,6 +96,19 @@
     <category>Enunciado</category>
     <category>Área: Direito Processual</category>
     <category>Tema: Tomada de contas especial</category>
+    <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
+  </item>
+  <item>
+    <title>É ilegal a percepção da Retribuição por Titulação (RT), instituída pela Lei 12.772/2012, por docente do magistério federal, com fundamento em diploma expedido por instituição de ensino estrangeira que não tenha sido, na forma da lei, reconhecido ou revalidado por instituição de educação superior brasileira, não configurando direito adquirido a mera obtenção do título antes da vigência da Lei 9.394/1996 (LDB), uma vez que a obrigatoriedade de revalidação já era prevista em legislações anteriores, a exemplo das Leis 4.024/1961 e 5.540/1968.</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/jurisprudencia-selecionada/JURISPRUDENCIA-SELECIONADA-207054</link>
+    <guid isPermaLink="false">tcu|jurisprudencia-selecionada|JURISPRUDENCIA-SELECIONADA-207054</guid>
+    <pubDate>Tue, 04 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Segunda Câmara — Acórdão 4011/2026 | Área: Pessoal | Tema: Remuneração | Subtema: Vantagem pecuniária] É ilegal a percepção da Retribuição por Titulação (RT), instituída pela Lei 12.772/2012, por docente do magistério federal, com fundamento em diploma expedido por instituição de ensino estrangeira que não tenha sido, na forma da lei, reconhecido ou revalidado por instituição de educação superior brasileira, não configurando direito adquirido a mera obtenção do título antes da vigência da Lei 9.394/1996 (LDB), uma vez que a obrigatoriedade de revalidação já era prevista em legislações anteriores, a exemplo das Leis 4.024/1961 e 5.540/1968.</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Jurisprudência Selecionada</category>
+    <category>Enunciado</category>
+    <category>Área: Pessoal</category>
+    <category>Tema: Remuneração</category>
     <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
   </item>
   <item>
@@ -1279,32 +1305,6 @@
     <category>Enunciado</category>
     <category>Área: Licitação</category>
     <category>Tema: Registro de preços</category>
-    <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
-  </item>
-  <item>
-    <title>A remuneração devida a empresa estatal por serviços prestados à União não pode ser operacionalizada por meio de dedução ou abatimento sobre a correspondente receita bruta auferida pela empresa, devendo esta ser integralmente recolhida à Conta Única do Tesouro Nacional e o pagamento da contraprestação se dar mediante regular execução orçamentária e financeira, como despesa da União.</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/jurisprudencia-selecionada/JURISPRUDENCIA-SELECIONADA-203582</link>
-    <guid isPermaLink="false">tcu|jurisprudencia-selecionada|JURISPRUDENCIA-SELECIONADA-203582</guid>
-    <pubDate>Wed, 27 May 2026 09:00:00 -0000</pubDate>
-    <description>[Plenário — Acórdão 1372/2026 | Área: Finanças Públicas | Tema: Conta única | Subtema: Obrigatoriedade] A remuneração devida a empresa estatal por serviços prestados à União não pode ser operacionalizada por meio de dedução ou abatimento sobre a correspondente receita bruta auferida pela empresa, devendo esta ser integralmente recolhida à Conta Única do Tesouro Nacional e o pagamento da contraprestação se dar mediante regular execução orçamentária e financeira, como despesa da União.</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Jurisprudência Selecionada</category>
-    <category>Enunciado</category>
-    <category>Área: Finanças Públicas</category>
-    <category>Tema: Conta única</category>
-    <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
-  </item>
-  <item>
-    <title>As verbas sucumbenciais devidas à Defensoria Pública da União (DPU), embora qualificadas como recursos de natureza privada com finalidade pública (art. 4, § 2º, da Lei 14.941/2024), devem ser recolhidas à Conta Única do Tesouro Nacional e incluídas no Orçamento Geral da União, preservada sua destinação exclusiva ao aparelhamento institucional da DPU e assegurada a adicionalidade dessas verbas em relação aos repasses ordinários do Tesouro, de modo a evitar sua substituição por dotações já consignadas à instituição.</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/jurisprudencia-selecionada/JURISPRUDENCIA-SELECIONADA-203747</link>
-    <guid isPermaLink="false">tcu|jurisprudencia-selecionada|JURISPRUDENCIA-SELECIONADA-203747</guid>
-    <pubDate>Wed, 27 May 2026 09:00:00 -0000</pubDate>
-    <description>[Plenário — Acórdão 1372/2026 | Área: Finanças Públicas | Tema: Conta única | Subtema: Obrigatoriedade] As verbas sucumbenciais devidas à Defensoria Pública da União (DPU), embora qualificadas como recursos de natureza privada com finalidade pública (art. 4, § 2º, da Lei 14.941/2024), devem ser recolhidas à Conta Única do Tesouro Nacional e incluídas no Orçamento Geral da União, preservada sua destinação exclusiva ao aparelhamento institucional da DPU e assegurada a adicionalidade dessas verbas em relação aos repasses ordinários do Tesouro, de modo a evitar sua substituição por dotações já consignadas à instituição.</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Jurisprudência Selecionada</category>
-    <category>Enunciado</category>
-    <category>Área: Finanças Públicas</category>
-    <category>Tema: Conta única</category>
     <category>Nota de data: data da sessão de julgamento em que o enunciado foi deliberado</category>
   </item>
 </channel>

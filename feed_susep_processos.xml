@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 24 Aug 2026 10:56:14 -0300</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:47:23 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>PROCESSO TCU Nº 015.490/2026-2 ‒ REPRESENTAÇÃO</title>
@@ -19,11 +19,44 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
+    <title>PROCESSO TCU Nº 001.719/2026-2 ‒ PENSÃO CIVIL</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/171920262</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79650844</guid>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 001.719/2026-2 | Pensão Civil | Aberto | Relator Jorge Oliveira] 001.719/2026-2 - Pensão Civil</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
     <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
     <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 007.442/2025-4 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/744220254</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77973187</guid>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 007.442/2025-4 | Relatório de Acompanhamento | Aberto | Relator Augusto Nardes] 007.442/2025-4 - Relatório de Acompanhamento</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 024.992/2024-0 ‒ SOLICITAÇÃO DE SOLUÇÃO CONSENSUAL</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2499220240</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77053549</guid>
+    <pubDate>Mon, 24 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 024.992/2024-0 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 024.992/2024-0 - Solicitação de Solução Consensual</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -112,28 +145,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79188129</guid>
     <pubDate>Mon, 17 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 021.579/2025-3 | Pensão Civil | Aberto | Relator Augusto Sherman] 021.579/2025-3 - Pensão Civil</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 007.442/2025-4 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/744220254</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77973187</guid>
-    <pubDate>Fri, 14 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 007.442/2025-4 | Relatório de Acompanhamento | Aberto | Relator Augusto Nardes] 007.442/2025-4 - Relatório de Acompanhamento</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 024.992/2024-0 ‒ SOLICITAÇÃO DE SOLUÇÃO CONSENSUAL</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2499220240</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77053549</guid>
-    <pubDate>Fri, 14 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 024.992/2024-0 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 024.992/2024-0 - Solicitação de Solução Consensual</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -1080,17 +1091,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73056636</guid>
     <pubDate>Mon, 03 Apr 2023 09:00:00 -0000</pubDate>
     <description>[Processo TCU 004.627/2023-7 | Pensão Civil | Encerrado | Relator Jhonatan de Jesus] 004.627/2023-7 - Pensão Civil</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 028.306/2022-8 ‒ APOSENTADORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2830620228</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-72309544</guid>
-    <pubDate>Fri, 31 Mar 2023 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 028.306/2022-8 | Aposentadoria | Encerrado | Relator Walton Alencar Rodrigues] 028.306/2022-8 - Aposentadoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>

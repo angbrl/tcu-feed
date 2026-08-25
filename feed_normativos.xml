@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 24 Aug 2026 10:56:14 -0300</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:47:23 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>Portaria SECEXONU n° 1/2026</title>
@@ -13,6 +13,34 @@
     <guid isPermaLink="false">tcu|norma|NORMA-49754</guid>
     <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 1/2026 | Vigente | Vigência 20/08/2026] Dispõe acerca da estrutura, das competências e das diretrizes de atuação da Secretaria de Controle Externo da Organização das Nações Unidas (SecexONU) Tema: Gestão Tags: Estrutura organizacional, Competência organizacional Unidades autoras: SEGECEX Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80930388</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria SEAE n° 30/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49774</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49774</guid>
+    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 30/2026 | Vigente | Vigência 21/08/2026] Convoca Ministro-Substituto Tema: Gestão Tags: Substituição, Ministro substituto Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80938880</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria TCU n° 128/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49775</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49775</guid>
+    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 128/2026 | Vigente | Vigência 21/08/2026] Concede aposentadoria Tema: Gestão Tags: Aposentadoria integral, Aposentadoria voluntária Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80938907</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
@@ -1371,34 +1399,6 @@
     <guid isPermaLink="false">tcu|norma|NORMA-48634</guid>
     <pubDate>Thu, 09 Jul 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 19/2026 | Vigente | Vigência 10/07/2026] Autoriza a descentralização externa de créditos orçamentários e repasse de recursos financeiros para o Ministério das Relações Exteriores - MRE. Tema: Gestão Tags: Descentralização de crédito, Descentralização de recursos financeiros Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80671568</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria SECPESSOAS n° 102/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48654</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48654</guid>
-    <pubDate>Thu, 09 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 102/2026 | Vigente | Vigência 10/07/2026] Progressão/Promoção Funcional Tema: Gestão Tags: Promoção, Progressão Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80671569</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria SECPESSOAS n° 101/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48714</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48714</guid>
-    <pubDate>Thu, 09 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 101/2026 | Vigente | Vigência 14/07/2026] Pensão vitalícia Tema: Gestão Tags: Pensão vitalícia Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80689460</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
