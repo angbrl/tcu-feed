@@ -5,8 +5,36 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 26 Aug 2026 09:18:28 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 12:49:49 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>Portaria TCU n° 130/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49874</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49874</guid>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 130/2026 | Vigente | Vigência 25/08/2026] Institui o Selo Fiscal Cidadão do Tribunal de Contas da União e regulamenta o procedimento para sua concessão no exercício de 2026. Tema: Controle Externo Tags: Participação cidadã, Controle social, Reconhecimento Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80953831</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Controle Externo</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria DIADI n° 162/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49894</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49894</guid>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 162/2026 | Vigente | Vigência 26/08/2026] Designação para FC de Especialista Sênior Tema: Gestão Tags: Função de confiança, Especialista, Indicação Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80959745</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
   <item>
     <title>Portaria SEAE n° 31/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49794</link>
@@ -1377,34 +1405,6 @@
     <category>Tipo: Portaria</category>
     <category>Situação: Vigente</category>
     <category>Tema: Controle Externo</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria DIADI n° 137/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48675</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48675</guid>
-    <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 137/2026 | Vigente | Vigência 13/07/2026] Designação para FC Tema: Gestão Tags: Indicação, Função de confiança Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80680407</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria DIADI n° 136/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48694</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48694</guid>
-    <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 136/2026 | Vigente | Vigência 13/07/2026] Designação para FC Tema: Gestão Tags: Indicação, Função de confiança Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80680394</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
     <category>Nota de data: data do ato normativo</category>
   </item>
 </channel>

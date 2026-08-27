@@ -5,8 +5,19 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 26 Aug 2026 09:18:28 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 12:49:49 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>PROCESSO TCU Nº 024.061/2025-5 ‒ DENÚNCIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2406120255</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79411336</guid>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 024.061/2025-5 | Denúncia | Aberto | Relator Walton Alencar Rodrigues] 024.061/2025-5 - Denúncia</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
   <item>
     <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
@@ -19,10 +30,21 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
+    <title>PROCESSO TCU Nº 001.713/2026-4 ‒ PENSÃO CIVIL</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/171320264</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79650622</guid>
+    <pubDate>Wed, 26 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 001.713/2026-4 | Pensão Civil | Encerrado | Relator Bruno Dantas] 001.713/2026-4 - Pensão Civil</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
     <title>PROCESSO TCU Nº 015.635/2025-2 ‒ RELATÓRIO DE AUDITORIA</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1563520252</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78574025</guid>
-    <pubDate>Tue, 25 Aug 2026 09:00:00 -0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 015.635/2025-2 | Relatório de Auditoria | Aberto | Relator Odair Cunha] 015.635/2025-2 - Relatório de Auditoria</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
@@ -107,17 +129,6 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
-    <title>PROCESSO TCU Nº 024.061/2025-5 ‒ DENÚNCIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2406120255</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79411336</guid>
-    <pubDate>Thu, 20 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 024.061/2025-5 | Denúncia | Aberto | Relator Walton Alencar Rodrigues] 024.061/2025-5 - Denúncia</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
     <title>PROCESSO TCU Nº 006.690/2024-6 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/669020246</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-75624801</guid>
@@ -178,17 +189,6 @@
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73677677</guid>
     <pubDate>Thu, 13 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 014.798/2023-9 | Relatório de Auditoria | Encerrado | Relator Bruno Dantas] 014.798/2023-9 - Relatório de Auditoria</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 001.713/2026-4 ‒ PENSÃO CIVIL</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/171320264</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79650622</guid>
-    <pubDate>Wed, 12 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 001.713/2026-4 | Pensão Civil | Encerrado | Relator Bruno Dantas] 001.713/2026-4 - Pensão Civil</description>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>

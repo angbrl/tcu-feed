@@ -5,8 +5,20 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Acórdãos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da sessão de julgamento do acórdão.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 26 Aug 2026 09:18:28 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 12:49:49 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ACÓRDÃO DE RELAÇÃO Nº 2241/2026 ‒ TCU ‒ PLENÁRIO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2772838</link>
+    <guid isPermaLink="false">tcu|acordao-completo|ACORDAO-COMPLETO-2772838</guid>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Acórdão 2241/2026 | Plenário | Sessão 25/08/2026 | Relator WALTON ALENCAR RODRIGUES | Processo 2406120255] ...Considerando que a Superintendência de Seguros Privados (Susep) emitiu Circular Susep 640/2021, Manual de Seguro Garantia, Circular Susep 662/2022 e Circular... ...Superintendência de Seguros Privados, para a eventual adoção das providências internas de sua alçada; levantar o sigilo que recai sobre as peças destes autos, à... Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=33388948</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
+    <category>Acórdão de Relação</category>
+    <category>Colegiado: Plenário</category>
+    <category>Nota de data: data da sessão de julgamento do acórdão</category>
+  </item>
   <item>
     <title>ACÓRDÃO DE RELAÇÃO Nº 2123/2026 ‒ TCU ‒ PLENÁRIO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2775906</link>
@@ -1193,18 +1205,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
     <category>Acórdão de Relação</category>
     <category>Colegiado: Primeira Câmara</category>
-    <category>Nota de data: data da sessão de julgamento do acórdão</category>
-  </item>
-  <item>
-    <title>ACÓRDÃO DE RELAÇÃO Nº 2777/2023 ‒ TCU ‒ SEGUNDA CÂMARA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/acordao-completo/ACORDAO-COMPLETO-2581432</link>
-    <guid isPermaLink="false">tcu|acordao-completo|ACORDAO-COMPLETO-2581432</guid>
-    <pubDate>Tue, 11 Apr 2023 09:00:00 -0000</pubDate>
-    <description>[Acórdão 2777/2023 | Segunda Câmara | Sessão 11/04/2023 | Relator ANTONIO ANASTASIA | Processo 2607820201] ...Superintendência de Seguros Privados.... ...Superintendência de Seguros Privados - Susep de 2017 (TC 036.379/2018-2), determinou à Susep que informasse ao... Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=27499866</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Acórdãos</category>
-    <category>Acórdão de Relação</category>
-    <category>Colegiado: Segunda Câmara</category>
     <category>Nota de data: data da sessão de julgamento do acórdão</category>
   </item>
 </channel>
