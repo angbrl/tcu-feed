@@ -5,8 +5,20 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Atas das Sessões). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de expedição da ata.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 27 Aug 2026 12:49:49 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 07:12:09 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ATA Nº 31/2026 ‒ TCU ‒ PLENÁRIO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-312026001</link>
+    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-312026001</guid>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Ata de Sessão 31/2026 | Plenário | Expedição 19/08/2026] ...Previc e Superintendência de Seguros Privados - Susep), com vistas a mapear riscos e levantar indicadores de governança que auxiliem no controle da... ...Mobiliários, à Superintendência Nacional de Previdência Complementar, à Superintendência de Seguros Privados, ao Ministério da Fazenda, ao Ministério da...</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
+    <category>Ata de Sessão</category>
+    <category>Colegiado: Plenário</category>
+    <category>Nota de data: data de expedição da ata</category>
+  </item>
   <item>
     <title>ATA Nº 25/2026 ‒ TCU ‒ 2ª CÂMARA</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-252026201</link>
@@ -1193,18 +1205,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
     <category>Ata de Sessão</category>
     <category>Colegiado: Plenário</category>
-    <category>Nota de data: data de expedição da ata</category>
-  </item>
-  <item>
-    <title>ATA Nº 7/2023 ‒ TCU ‒ 1ª CÂMARA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-72023101</link>
-    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-72023101</guid>
-    <pubDate>Tue, 28 Mar 2023 09:00:00 -0000</pubDate>
-    <description>[Ata de Sessão 7/2023 | 1ª Câmara | Expedição 28/03/2023]</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
-    <category>Ata de Sessão</category>
-    <category>Colegiado: 1ª Câmara</category>
     <category>Nota de data: data de expedição da ata</category>
   </item>
 </channel>

@@ -5,8 +5,36 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 27 Aug 2026 12:49:49 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 07:12:09 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>Portaria DIOP-ESTADOS n° 21/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49934</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49934</guid>
+    <pubDate>Thu, 27 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 21/2026 | Vigente | Vigência 27/08/2026] Fiscalização de Contrato Tema: Gestão Tags: Fiscal, Contrato administrativo Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80966977</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria TCU n° 131/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49914</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-49914</guid>
+    <pubDate>Wed, 26 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 131/2026 | Vigente | Vigência 26/08/2026] Dispõe sobre valor e benefícios das ações de controle externo. Tema: Controle Externo Tags: Benefício das ações de controle externo Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80961204</description>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Controle Externo</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
   <item>
     <title>Portaria TCU n° 130/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-49874</link>
@@ -1377,34 +1405,6 @@
     <category>Tipo: Portaria</category>
     <category>Situação: Vigente</category>
     <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria DIOP n° 3/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48655</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48655</guid>
-    <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 3/2026 | Vigente | Vigência 10/07/2026] Designa servidores para fiscalizarem a execução do contrato nº 20/2026-SEGEDAM. Tema: Gestão Tags: Contrato administrativo, Fiscal Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80671574</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria TCU n° 105/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-48674</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-48674</guid>
-    <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 105/2026 | Vigente | Vigência 10/07/2026] Atualiza e divulga a relação das Unidades Prestadoras de Contas (UPC) do exercício de 2026. Tema: Controle Externo Tags: Unidade Prestadora de Contas, Prestação de contas, Processo de prestação de contas, Processo de contas Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=80679396</description>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Controle Externo</category>
     <category>Nota de data: data do ato normativo</category>
   </item>
 </channel>
