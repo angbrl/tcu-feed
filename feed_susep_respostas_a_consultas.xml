@@ -3,10 +3,9 @@
 <channel>
   <title>Pesquisa entidade (Susep) — Respostas a Consultas</title>
   <link>https://pesquisa.apps.tcu.gov.br</link>
-  <description>Atos do Tribunal de Contas da União (Portal do TCU | Respostas a Consultas). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da sessão em que a resposta foi deliberada.</description>
+  <description>Pesquisa entidade (Susep) — Respostas a Consultas - TCU</description>
   <language>pt-br</language>
-  <lastBuildDate>Fri, 28 Aug 2026 07:12:09 -0300</lastBuildDate>
-  <generator>tcu_rss_multifeed.py</generator>
-
+  <lastBuildDate>Sat, 29 Aug 2026 19:56:41 -0300</lastBuildDate>
+  
 </channel>
 </rss>
