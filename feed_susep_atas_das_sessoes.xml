@@ -5,8 +5,21 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Atas das Sessões). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de expedição da ata.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 03 Sep 2026 08:09:17 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 08:53:29 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ATA Nº 32/2026 ‒ TCU ‒ PLENÁRIO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-322026002</link>
+    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-322026002</guid>
+    <pubDate>Tue, 25 Aug 2026 09:00:00 -0000</pubDate>
+    <description>[Ata de Sessão 32/2026 | Plenário | Expedição 25/08/2026] ...25 da Lei 4.829/1965 pelo Banco do Brasil; Considerando que a Superintendência de Seguros Privados (Susep) emitiu Circular Susep 640/2021,... ...processo ao Banco Central e à Superintendência de Seguros Privados, para a eventual adoção das providências internas de sua alçada; levantar o sigilo que...</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 32/2026 | Plenário | Expedição 25/08/2026] ...25 da Lei 4.829/1965 pelo Banco do Brasil; Considerando que a Superintendência de Seguros Privados (Susep) emitiu Circular Susep 640/2021,... ...processo ao Banco Central e à Superintendência de Seguros Privados, para a eventual adoção das providências internas de sua alçada; levantar o sigilo que...</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
+    <category>Ata de Sessão</category>
+    <category>Colegiado: Plenário</category>
+    <category>Nota de data: data de expedição da ata</category>
+  </item>
   <item>
     <title>ATA Nº 31/2026 ‒ TCU ‒ PLENÁRIO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-312026001</link>
@@ -252,19 +265,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
     <category>Ata de Sessão</category>
     <category>Colegiado: 1ª Câmara</category>
-    <category>Nota de data: data de expedição da ata</category>
-  </item>
-  <item>
-    <title>ATA Nº 1/2026 ‒ TCU ‒ 2ª CÂMARA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-12026201</link>
-    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-12026201</guid>
-    <pubDate>Tue, 27 Jan 2026 09:00:00 -0000</pubDate>
-    <description>[Ata de Sessão 1/2026 | 2ª Câmara | Expedição 27/01/2026]</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 1/2026 | 2ª Câmara | Expedição 27/01/2026]</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
-    <category>Ata de Sessão</category>
-    <category>Colegiado: 2ª Câmara</category>
     <category>Nota de data: data de expedição da ata</category>
   </item>
 </channel>
