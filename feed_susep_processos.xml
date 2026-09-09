@@ -5,8 +5,20 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Tue, 08 Sep 2026 14:41:38 -0300</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 10:03:47 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>PROCESSO TCU Nº 019.173/2026-1 ‒ SOLICITAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1917320261</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-81003989</guid>
+    <pubDate>Tue, 08 Sep 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 019.173/2026-1 | Solicitação | Aberto | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.173/2026-1 | Solicitação | Aberto | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
   <item>
     <title>PROCESSO TCU Nº 007.442/2025-4 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/744220254</link>
@@ -230,18 +242,6 @@
     <pubDate>Tue, 18 Aug 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Bruno Dantas] 028.814/2022-3 - Representação</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Bruno Dantas] 028.814/2022-3 - Representação</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 021.579/2025-3 ‒ PENSÃO CIVIL</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2157920253</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-79188129</guid>
-    <pubDate>Mon, 17 Aug 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 021.579/2025-3 | Pensão Civil | Aberto | Relator Augusto Sherman] 021.579/2025-3 - Pensão Civil</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 021.579/2025-3 | Pensão Civil | Aberto | Relator Augusto Sherman] 021.579/2025-3 - Pensão Civil</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
