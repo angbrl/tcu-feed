@@ -5,8 +5,23 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Boletim do Tribunal de Contas da União). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de publicação do ato no Boletim do Tribunal de Contas da União.</description>
   <language>pt-br</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:40:35 -0300</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 11:19:47 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>DESPACHO DE AUTORIDADE — BTCU Nº 169/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/btcu/BTCU-217734</link>
+    <guid isPermaLink="false">tcu|btcu|BTCU-217734</guid>
+    <pubDate>Tue, 22 Sep 2026 09:00:00 -0000</pubDate>
+    <description>[Despacho de autoridade | BTCU Deliberações nº 169/2026 | Publicação 22/09/2026 | Unidade signatária: Gabinete do Ministro JORGE OLIVEIRA | Sigla: MIN-JGO] ...sistema da Superintendência de Seguros Privados (Susep), embora a empresa sustente ter apresentado apólice válida, registrada e acompanhada do comprovante... ... Primeiro, constata-se que os elementos apresentados esclarecem que a Administração realizou consultas à base oficial da Susep, em 27/3/2026,...</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Despacho de autoridade | BTCU Deliberações nº 169/2026 | Publicação 22/09/2026 | Unidade signatária: Gabinete do Ministro JORGE OLIVEIRA | Sigla: MIN-JGO] ...sistema da Superintendência de Seguros Privados (Susep), embora a empresa sustente ter apresentado apólice válida, registrada e acompanhada do comprovante... ... Primeiro, constata-se que os elementos apresentados esclarecem que a Administração realizou consultas à base oficial da Susep, em 27/3/2026,...</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ BTCU</category>
+    <category>Despacho de autoridade</category>
+    <category>Tipo: Despacho de autoridade</category>
+    <category>Boletim: BTCU Deliberações</category>
+    <category>Unidade signatária: MIN-JGO</category>
+    <category>Nota de data: data de publicação do ato no Boletim do Tribunal de Contas da União</category>
+  </item>
   <item>
     <title>PAUTA — BTCU Nº 167/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/btcu/BTCU-217639</link>
@@ -288,21 +303,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ BTCU</category>
     <category>Ata</category>
     <category>Tipo: Ata</category>
-    <category>Boletim: BTCU Deliberações</category>
-    <category>Unidade signatária: 1ª CÂMARA</category>
-    <category>Nota de data: data de publicação do ato no Boletim do Tribunal de Contas da União</category>
-  </item>
-  <item>
-    <title>PAUTA — BTCU Nº 48/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/btcu/BTCU-204004</link>
-    <guid isPermaLink="false">tcu|btcu|BTCU-204004</guid>
-    <pubDate>Fri, 20 Mar 2026 09:00:00 -0000</pubDate>
-    <description>[Pauta | BTCU Deliberações nº 48/2026 | Publicação 20/03/2026 | Unidade signatária: 1ª Câmara | Sigla: 1ª CÂMARA] ...Mcti; Polícia Federal; Polícia Rodoviária Federal; Superintendência de Seguros Privados; Superintendência do Desenvolvimento do Nordeste; Superintendência...</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Pauta | BTCU Deliberações nº 48/2026 | Publicação 20/03/2026 | Unidade signatária: 1ª Câmara | Sigla: 1ª CÂMARA] ...Mcti; Polícia Federal; Polícia Rodoviária Federal; Superintendência de Seguros Privados; Superintendência do Desenvolvimento do Nordeste; Superintendência...</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ BTCU</category>
-    <category>Pauta</category>
-    <category>Tipo: Pauta</category>
     <category>Boletim: BTCU Deliberações</category>
     <category>Unidade signatária: 1ª CÂMARA</category>
     <category>Nota de data: data de publicação do ato no Boletim do Tribunal de Contas da União</category>
