@@ -5,8 +5,21 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Atas das Sessões). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de expedição da ata.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 23 Sep 2026 11:19:47 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 08:56:43 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ATA Nº 36/2026 ‒ TCU ‒ PLENÁRIO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-362026001</link>
+    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-362026001</guid>
+    <pubDate>Wed, 16 Sep 2026 09:00:00 -0000</pubDate>
+    <description>[Ata de Sessão 36/2026 | Plenário | Expedição 16/09/2026]</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 36/2026 | Plenário | Expedição 16/09/2026]</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
+    <category>Ata de Sessão</category>
+    <category>Colegiado: Plenário</category>
+    <category>Nota de data: data de expedição da ata</category>
+  </item>
   <item>
     <title>ATA Nº 32/2026 ‒ TCU ‒ PLENÁRIO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-322026002</link>
@@ -252,19 +265,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
     <category>Ata de Sessão</category>
     <category>Colegiado: Plenário</category>
-    <category>Nota de data: data de expedição da ata</category>
-  </item>
-  <item>
-    <title>ATA Nº 1/2026 ‒ TCU ‒ 1ª CÂMARA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-12026101</link>
-    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-12026101</guid>
-    <pubDate>Tue, 27 Jan 2026 09:00:00 -0000</pubDate>
-    <description>[Ata de Sessão 1/2026 | 1ª Câmara | Expedição 27/01/2026]</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 1/2026 | 1ª Câmara | Expedição 27/01/2026]</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
-    <category>Ata de Sessão</category>
-    <category>Colegiado: 1ª Câmara</category>
     <category>Nota de data: data de expedição da ata</category>
   </item>
 </channel>
