@@ -5,8 +5,21 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Atas das Sessões). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de expedição da ata.</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 28 Sep 2026 13:13:39 -0300</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 10:58:14 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>ATA Nº 32/2026 ‒ TCU ‒ 1ª CÂMARA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-322026101</link>
+    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-322026101</guid>
+    <pubDate>Tue, 22 Sep 2026 09:00:00 -0000</pubDate>
+    <description>[Ata de Sessão 32/2026 | 1ª Câmara | Expedição 22/09/2026] ...Superintendência de Seguros Privados (Susep), que teve como objeto a contratação de empresa especializada para prestação de serviços de solução integrada de rede... ...001.055/2025-9 (REPRESENTAÇÃO) 1.1. Entidade: Superintendência de Seguros Privados. 1.2. Relator: Ministro Odair Cunha. 1.3. Representante...</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 32/2026 | 1ª Câmara | Expedição 22/09/2026] ...Superintendência de Seguros Privados (Susep), que teve como objeto a contratação de empresa especializada para prestação de serviços de solução integrada de rede... ...001.055/2025-9 (REPRESENTAÇÃO) 1.1. Entidade: Superintendência de Seguros Privados. 1.2. Relator: Ministro Odair Cunha. 1.3. Representante...</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
+    <category>Ata de Sessão</category>
+    <category>Colegiado: 1ª Câmara</category>
+    <category>Nota de data: data de expedição da ata</category>
+  </item>
   <item>
     <title>ATA Nº 36/2026 ‒ TCU ‒ PLENÁRIO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-362026001</link>
@@ -252,19 +265,6 @@
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
     <category>Ata de Sessão</category>
     <category>Colegiado: 1ª Câmara</category>
-    <category>Nota de data: data de expedição da ata</category>
-  </item>
-  <item>
-    <title>ATA Nº 3/2026 ‒ TCU ‒ PLENÁRIO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ata-sessao/ATA-SESSAO-32026001</link>
-    <guid isPermaLink="false">tcu|ata-sessao|ATA-SESSAO-32026001</guid>
-    <pubDate>Wed, 04 Feb 2026 09:00:00 -0000</pubDate>
-    <description>[Ata de Sessão 3/2026 | Plenário | Expedição 04/02/2026] ...o modelo de governança da Superintendência de Seguros Privados (Susep), informando que a proposição legislativa foi encaminhada pelo Ministério da... ...9.3.3 do Acórdão 637/2025-TCU-Plenário; 1.6.5. determinar à Superintendência de Seguros Privados (Susep) que encaminhe a este Tribunal, até 31 de...</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Ata de Sessão 3/2026 | Plenário | Expedição 04/02/2026] ...o modelo de governança da Superintendência de Seguros Privados (Susep), informando que a proposição legislativa foi encaminhada pelo Ministério da... ...9.3.3 do Acórdão 637/2025-TCU-Plenário; 1.6.5. determinar à Superintendência de Seguros Privados (Susep) que encaminhe a este Tribunal, até 31 de...</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atas das Sessões</category>
-    <category>Ata de Sessão</category>
-    <category>Colegiado: Plenário</category>
     <category>Nota de data: data de expedição da ata</category>
   </item>
 </channel>
