@@ -5,15 +5,39 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:48 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 11:08:48 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80638197</guid>
-    <pubDate>Tue, 13 Oct 2026 09:00:00 -0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 010.311/2026-2 ‒ REPRESENTAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1031120262</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80319401</guid>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 010.311/2026-2 | Representação | Aberto | Relator Benjamin Zymler] 010.311/2026-2 - Representação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 010.311/2026-2 | Representação | Aberto | Relator Benjamin Zymler] 010.311/2026-2 - Representação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 028.814/2022-3 ‒ REPRESENTAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2881420223</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-72353882</guid>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 028.814/2022-3 | Representação | Encerrado | Relator Rodrigo Pacheco] 028.814/2022-3 - Representação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 028.814/2022-3 | Representação | Encerrado | Relator Rodrigo Pacheco] 028.814/2022-3 - Representação</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -50,18 +74,6 @@
     <pubDate>Thu, 08 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 010.311/2026-2 ‒ REPRESENTAÇÃO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1031120262</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80319401</guid>
-    <pubDate>Wed, 07 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 010.311/2026-2 | Representação | Aberto | Relator Benjamin Zymler] 010.311/2026-2 - Representação</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 010.311/2026-2 | Representação | Aberto | Relator Benjamin Zymler] 010.311/2026-2 - Representação</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -122,18 +134,6 @@
     <pubDate>Thu, 01 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 001.719/2026-2 | Pensão Civil | Encerrado | Relator Jorge Oliveira] 001.719/2026-2 - Pensão Civil</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 001.719/2026-2 | Pensão Civil | Encerrado | Relator Jorge Oliveira] 001.719/2026-2 - Pensão Civil</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 028.814/2022-3 ‒ REPRESENTAÇÃO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2881420223</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-72353882</guid>
-    <pubDate>Wed, 30 Sep 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Rodrigo Pacheco] 028.814/2022-3 - Representação</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 028.814/2022-3 | Representação | Aberto | Relator Rodrigo Pacheco] 028.814/2022-3 - Representação</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>

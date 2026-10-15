@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:48 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 11:08:48 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>Portaria SECPESSOAS n° 131/2026</title>
@@ -29,6 +29,21 @@
     <pubDate>Fri, 30 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 132/2026 | Vigente | Vigência 01/10/2026] Designação para FC Tema: Gestão Tags: Indicação, Função de confiança Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81179648</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 132/2026 | Vigente | Vigência 01/10/2026] Designação para FC Tema: Gestão Tags: Indicação, Função de confiança Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81179648</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria TCU n° 157/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-51158</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-51158</guid>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 157/2026 | Vigente | Vigência 13/12/2026] Institui a carteira digital de identidade funcional no âmbito do Tribunal de Contas da União. Tema: Gestão Tags: Cartão de identidade funcional, Carteira de identidade, Política organizacional, Documento digital, Documento público, Gestão de pessoas, Carteira de Identidade Nacional Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81252704</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 157/2026 | Vigente | Vigência 13/12/2026] Institui a carteira digital de identidade funcional no âmbito do Tribunal de Contas da União. Tema: Gestão Tags: Cartão de identidade funcional, Carteira de identidade, Política organizacional, Documento digital, Documento público, Gestão de pessoas, Carteira de Identidade Nacional Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81252704</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
@@ -233,6 +248,21 @@
     <category>Nota de data: data do ato normativo</category>
   </item>
   <item>
+    <title>Instrução Normativa TCU n° 105/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-51118</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-51118</guid>
+    <pubDate>Wed, 07 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Instrução Normativa n° 105/2026 | Vigente | Vigência 13/10/2026] Dispõe sobre o instrumento de cooperação interinstitucional e social denominado Compromisso Cidadão no âmbito do Tribunal de Contas da União. Tema: Controle Externo Tags: Controle social, Participação cidadã, Construção participativa de deliberações Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81243230</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Instrução Normativa n° 105/2026 | Vigente | Vigência 13/10/2026] Dispõe sobre o instrumento de cooperação interinstitucional e social denominado Compromisso Cidadão no âmbito do Tribunal de Contas da União. Tema: Controle Externo Tags: Controle social, Participação cidadã, Construção participativa de deliberações Unidades autoras: TCU Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81243230</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Instrução Normativa</category>
+    <category>Tipo: Instrução Normativa</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Controle Externo</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
     <title>Portaria SECPESSOAS n° 136/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-51019</link>
     <guid isPermaLink="false">tcu|norma|NORMA-51019</guid>
@@ -269,36 +299,6 @@
     <pubDate>Mon, 05 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 193/2026 | Vigente | Vigência 06/10/2026] Dispensa de FC Tema: Gestão Tags: Função de confiança, Dispensa Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81204133</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 193/2026 | Vigente | Vigência 06/10/2026] Dispensa de FC Tema: Gestão Tags: Função de confiança, Dispensa Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81204133</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria DIADI n° 194/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-50979</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-50979</guid>
-    <pubDate>Mon, 05 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 194/2026 | Vigente | Vigência 06/10/2026] Designação para FC Tema: Gestão Tags: Função de confiança, Indicação Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81204145</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 194/2026 | Vigente | Vigência 06/10/2026] Designação para FC Tema: Gestão Tags: Função de confiança, Indicação Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81204145</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria DIADI n° 191/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-50916</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-50916</guid>
-    <pubDate>Fri, 02 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 191/2026 | Vigente | Vigência 02/10/2026] Designação para FC interina Tema: Gestão Tags: Função de confiança, Interinidade, Indicação Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186625</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 191/2026 | Vigente | Vigência 02/10/2026] Designação para FC interina Tema: Gestão Tags: Função de confiança, Interinidade, Indicação Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186625</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
