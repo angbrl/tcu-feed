@@ -5,15 +5,15 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Tue, 20 Oct 2026 10:08:34 -0300</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 11:13:42 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
-    <title>PROCESSO TCU Nº 019.173/2026-1 ‒ SOLICITAÇÃO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1917320261</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-81003989</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 019.173/2026-1 | Solicitação | Encerrado | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.173/2026-1 | Solicitação | Encerrado | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</p></section>]]></content:encoded>
+    <title>PROCESSO TCU Nº 010.390/2024-3 ‒ RELATÓRIO DE AUDITORIA</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1039020243</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-76045159</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -23,9 +23,45 @@
     <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80638197</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:00 -0000</pubDate>
+    <pubDate>Tue, 20 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 006.690/2024-6 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/669020246</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-75624801</guid>
+    <pubDate>Tue, 20 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 017.812/2020-8 ‒ REPRESENTAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1781220208</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-64524375</guid>
+    <pubDate>Tue, 20 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 017.812/2020-8 | Representação | Encerrado | Relator Antonio Anastasia] 017.812/2020-8 - Representação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 017.812/2020-8 | Representação | Encerrado | Relator Antonio Anastasia] 017.812/2020-8 - Representação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 019.173/2026-1 ‒ SOLICITAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1917320261</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-81003989</guid>
+    <pubDate>Mon, 19 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 019.173/2026-1 | Solicitação | Encerrado | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.173/2026-1 | Solicitação | Encerrado | Relator Walton Alencar Rodrigues] 019.173/2026-1 - Solicitação</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -80,18 +116,6 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
-    <title>PROCESSO TCU Nº 006.690/2024-6 ‒ RELATÓRIO DE ACOMPANHAMENTO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/669020246</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-75624801</guid>
-    <pubDate>Thu, 08 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 006.690/2024-6 | Relatório de Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 006.690/2024-6 - Relatório de Acompanhamento</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
     <title>PROCESSO TCU Nº 001.055/2025-9 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/105520259</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77507465</guid>
@@ -122,18 +146,6 @@
     <pubDate>Tue, 06 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 030.100/2022-4 | Tomada de Contas Especial | Aberto | Relator Jorge Oliveira] 030.100/2022-4 - Tomada de Contas Especial</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 030.100/2022-4 | Tomada de Contas Especial | Aberto | Relator Jorge Oliveira] 030.100/2022-4 - Tomada de Contas Especial</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 010.390/2024-3 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1039020243</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-76045159</guid>
-    <pubDate>Mon, 05 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -230,18 +242,6 @@
     <pubDate>Wed, 23 Sep 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 015.852/2025-3 ‒ RELATÓRIO DE AUDITORIA</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1585220253</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-78597880</guid>
-    <pubDate>Mon, 21 Sep 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 015.852/2025-3 | Relatório de Auditoria | Encerrado | Relator Jorge Oliveira] 015.852/2025-3 - Relatório de Auditoria</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 015.852/2025-3 | Relatório de Auditoria | Encerrado | Relator Jorge Oliveira] 015.852/2025-3 - Relatório de Auditoria</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
