@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 21 Oct 2026 11:13:42 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 07:53:06 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>PROCESSO TCU Nº 010.390/2024-3 ‒ RELATÓRIO DE AUDITORIA</title>
@@ -14,6 +14,30 @@
     <pubDate>Wed, 21 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 010.390/2024-3 | Relatório de Auditoria | Encerrado | Relator Augusto Nardes] 010.390/2024-3 - Relatório de Auditoria</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 020.662/2023-8 ‒ SOLICITAÇÃO DE SOLUÇÃO CONSENSUAL</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2066220238</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-74018032</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 020.662/2023-8 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 020.662/2023-8 - Solicitação de Solução Consensual</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 020.662/2023-8 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 020.662/2023-8 - Solicitação de Solução Consensual</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
+  <item>
+    <title>PROCESSO TCU Nº 019.409/2023-0 ‒ ACOMPANHAMENTO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1940920230</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73932355</guid>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Encerrado | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.409/2023-0 | Acompanhamento | Encerrado | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
@@ -212,36 +236,12 @@
     <category>Nota de data: data da última movimentação registrada no processo</category>
   </item>
   <item>
-    <title>PROCESSO TCU Nº 020.662/2023-8 ‒ SOLICITAÇÃO DE SOLUÇÃO CONSENSUAL</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/2066220238</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-74018032</guid>
-    <pubDate>Fri, 25 Sep 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 020.662/2023-8 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 020.662/2023-8 - Solicitação de Solução Consensual</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 020.662/2023-8 | Solicitação de Solução Consensual | Aberto | Relator Jorge Oliveira] 020.662/2023-8 - Solicitação de Solução Consensual</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
     <title>PROCESSO TCU Nº 006.857/2025-6 ‒ PENSÃO CIVIL</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/685720256</link>
     <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-77930692</guid>
     <pubDate>Wed, 23 Sep 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 006.857/2025-6 | Pensão Civil | Aberto | Relator Benjamin Zymler] 006.857/2025-6 - Pensão Civil</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 006.857/2025-6 | Pensão Civil | Aberto | Relator Benjamin Zymler] 006.857/2025-6 - Pensão Civil</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 019.409/2023-0 ‒ ACOMPANHAMENTO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1940920230</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-73932355</guid>
-    <pubDate>Wed, 23 Sep 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.409/2023-0 | Acompanhamento | Aberto | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
