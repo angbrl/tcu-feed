@@ -5,8 +5,20 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Processos). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data da última movimentação registrada no processo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:08:28 -0300</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 08:26:56 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
+  <item>
+    <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
+    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80638197</guid>
+    <pubDate>Tue, 27 Oct 2026 09:00:00 -0000</pubDate>
+    <description>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
+    <category>Processo</category>
+    <category>Nota de data: data da última movimentação registrada no processo</category>
+  </item>
   <item>
     <title>PROCESSO TCU Nº 001.055/2025-9 ‒ REPRESENTAÇÃO</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/105520259</link>
@@ -50,18 +62,6 @@
     <pubDate>Wed, 21 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Processo TCU 019.409/2023-0 | Acompanhamento | Encerrado | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 019.409/2023-0 | Acompanhamento | Encerrado | Relator Walton Alencar Rodrigues] 019.409/2023-0 - Acompanhamento</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
-    <category>Processo</category>
-    <category>Nota de data: data da última movimentação registrada no processo</category>
-  </item>
-  <item>
-    <title>PROCESSO TCU Nº 014.988/2026-7 ‒ REPRESENTAÇÃO</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/processo/1498820267</link>
-    <guid isPermaLink="false">tcu|processo|PROCESSO-EXTERNO-80638197</guid>
-    <pubDate>Tue, 20 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Processo TCU 014.988/2026-7 | Representação | Aberto | Relator Jorge Oliveira] 014.988/2026-7 - Representação</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Processos</category>
     <category>Processo</category>
