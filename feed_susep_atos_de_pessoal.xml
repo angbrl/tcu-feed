@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Atos de Pessoal). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data de vigência do ato de pessoal.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 19 Nov 2026 15:49:03 -0300</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 08:12:07 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>ADMISSÃO 54202/2026</title>
@@ -128,6 +128,18 @@
     <category>Nota de data: data de vigência do ato de pessoal</category>
   </item>
   <item>
+    <title>ADMISSÃO 81465/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ato-pessoal/ATO-PESSOAL-EPESSOAL-1281325</link>
+    <guid isPermaLink="false">tcu|ato-pessoal|ATO-PESSOAL-EPESSOAL-1281325</guid>
+    <pubDate>Tue, 13 Jan 2026 09:00:00 -0000</pubDate>
+    <description>XXX.571.606-XX-ANDRE LUIZ SILVA GIRANT Unidade jurisdicionada responsável: Superintendência de Seguros Privados Aguardando análise do encaminhamento - Tribunal de Contas da União Início da vigência do Ato: 13/01/2026</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>XXX.571.606-XX-ANDRE LUIZ SILVA GIRANT Unidade jurisdicionada responsável: Superintendência de Seguros Privados Aguardando análise do encaminhamento - Tribunal de Contas da União Início da vigência do Ato: 13/01/2026</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atos de Pessoal</category>
+    <category>Aguardando análise do encaminhamento - Tribunal de Contas da União</category>
+    <category>Nota de data: data de vigência do ato de pessoal</category>
+  </item>
+  <item>
     <title>ADMISSÃO 45923/2026</title>
     <link>https://pesquisa.apps.tcu.gov.br/redireciona/ato-pessoal/ATO-PESSOAL-EPESSOAL-1232311</link>
     <guid isPermaLink="false">tcu|ato-pessoal|ATO-PESSOAL-EPESSOAL-1232311</guid>
@@ -233,18 +245,6 @@
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atos de Pessoal</category>
     <category>Aguardando autuação do TCU - Tribunal de Contas da União</category>
-    <category>Nota de data: data de vigência do ato de pessoal</category>
-  </item>
-  <item>
-    <title>ADMISSÃO 45083/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/ato-pessoal/ATO-PESSOAL-EPESSOAL-1230111</link>
-    <guid isPermaLink="false">tcu|ato-pessoal|ATO-PESSOAL-EPESSOAL-1230111</guid>
-    <pubDate>Fri, 05 Dec 2025 09:00:00 -0000</pubDate>
-    <description>XXX.995.598-XX-ANTONIO SERGIO MUNHOZ Unidade jurisdicionada responsável: Superintendência de Seguros Privados Aguardando análise do encaminhamento - Tribunal de Contas da União Início da vigência do Ato: 05/12/2025</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>XXX.995.598-XX-ANTONIO SERGIO MUNHOZ Unidade jurisdicionada responsável: Superintendência de Seguros Privados Aguardando análise do encaminhamento - Tribunal de Contas da União Início da vigência do Ato: 05/12/2025</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ pesquisa entidade (Susep) ‒ Atos de Pessoal</category>
-    <category>Aguardando análise do encaminhamento - Tribunal de Contas da União</category>
     <category>Nota de data: data de vigência do ato de pessoal</category>
   </item>
 </channel>
