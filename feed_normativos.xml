@@ -5,7 +5,7 @@
   <link>https://pesquisa.apps.tcu.gov.br</link>
   <description>Atos do Tribunal de Contas da União (Portal do TCU | Normativos do TCU). Fonte: Pesquisa Integrada do TCU (pesquisa.apps.tcu.gov.br). Data de referência: data do ato normativo.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 26 Nov 2026 08:57:04 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 08:11:09 -0300</lastBuildDate>
   <generator>tcu_rss_multifeed.py</generator>
   <item>
     <title>Portaria DIOP n° 11/2026</title>
@@ -14,6 +14,21 @@
     <pubDate>Wed, 25 Nov 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 11/2026 | Vigente | Vigência 25/11/2026] Designa servidores para fiscalizarem a execução do contrato nº 36/2026-SEGEDAM. Tema: Gestão Tags: Fiscal, Contrato administrativo Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81493917</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 11/2026 | Vigente | Vigência 25/11/2026] Designa servidores para fiscalizarem a execução do contrato nº 36/2026-SEGEDAM. Tema: Gestão Tags: Fiscal, Contrato administrativo Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81493917</p></section>]]></content:encoded>
+    <category>Tribunal de Contas da União</category>
+    <category domain="origem">TCU ‒ Normativos do TCU</category>
+    <category>Portaria</category>
+    <category>Tipo: Portaria</category>
+    <category>Situação: Vigente</category>
+    <category>Tema: Gestão</category>
+    <category>Nota de data: data do ato normativo</category>
+  </item>
+  <item>
+    <title>Portaria DIADI n° 209/2026</title>
+    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-51958</link>
+    <guid isPermaLink="false">tcu|norma|NORMA-51958</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 -0000</pubDate>
+    <description>[Portaria n° 209/2026 | Vigente | Vigência 26/11/2026] Dispensa de FC Tema: Gestão Tags: Função de confiança, Dispensa Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81501227</description>
+    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 209/2026 | Vigente | Vigência 26/11/2026] Dispensa de FC Tema: Gestão Tags: Função de confiança, Dispensa Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81501227</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
@@ -1484,21 +1499,6 @@
     <pubDate>Thu, 01 Oct 2026 09:00:00 -0000</pubDate>
     <description>[Portaria n° 24/2026 | Vigente | Vigência 02/10/2026] Fiscalização de Contrato Tema: Gestão Tags: Contrato administrativo, Fiscal Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186649</description>
     <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 24/2026 | Vigente | Vigência 02/10/2026] Fiscalização de Contrato Tema: Gestão Tags: Contrato administrativo, Fiscal Unidades autoras: SEGEDAM Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186649</p></section>]]></content:encoded>
-    <category>Tribunal de Contas da União</category>
-    <category domain="origem">TCU ‒ Normativos do TCU</category>
-    <category>Portaria</category>
-    <category>Tipo: Portaria</category>
-    <category>Situação: Vigente</category>
-    <category>Tema: Gestão</category>
-    <category>Nota de data: data do ato normativo</category>
-  </item>
-  <item>
-    <title>Portaria SEPROC n° 2/2026</title>
-    <link>https://pesquisa.apps.tcu.gov.br/redireciona/norma/NORMA-50896</link>
-    <guid isPermaLink="false">tcu|norma|NORMA-50896</guid>
-    <pubDate>Thu, 01 Oct 2026 09:00:00 -0000</pubDate>
-    <description>[Portaria n° 2/2026 | Vigente | Vigência 01/10/2026] Retifica o art. 21 da PORTARIA-SEPROC Nº 1, DE 30 DE SETEMBRO DE 2026 que trata da estrutura organizacional da secretaria. Tema: Gestão Tags: Alteração, Estrutura organizacional Unidades autoras: SEGECEX Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186879</description>
-    <content:encoded><![CDATA[<section><h2>Resumo</h2><p>[Portaria n° 2/2026 | Vigente | Vigência 01/10/2026] Retifica o art. 21 da PORTARIA-SEPROC Nº 1, DE 30 DE SETEMBRO DE 2026 que trata da estrutura organizacional da secretaria. Tema: Gestão Tags: Alteração, Estrutura organizacional Unidades autoras: SEGECEX Documento: https://contas.tcu.gov.br/sisdoc/ObterDocumentoSisdoc?codArqCatalogado=81186879</p></section>]]></content:encoded>
     <category>Tribunal de Contas da União</category>
     <category domain="origem">TCU ‒ Normativos do TCU</category>
     <category>Portaria</category>
